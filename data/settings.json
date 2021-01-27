@@ -2,7 +2,7 @@
   "organizer": {
     "name": "Kotlin La Paz",
     "twitter": "KotlinLaPaz",
-    "blog": "https://medium.com/gdg-lviv",
+    "blog": "https://www.mdevconf.tech/blog/",
     "url": "http://lviv.gdg.org.ua/"
   },
   "startDate": "2020-12-19T09:00:00+03:00",
@@ -24,16 +24,6 @@
       "label": "Inicio"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "programa",
-      "permalink": "/schedule/",
-      "label": "Programa"
-    },
-    {
       "route": "equipo",
       "permalink": "/team/",
       "label": "Equipo"
@@ -46,7 +36,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Únete a la comunidad, ¡Aprende nuevas cosas!",
+      "description": "Únete a la comunidad,<br>¡Aprende nuevas cosas!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -112,9 +102,9 @@
     }
   },
   "location": {
-    "label": "Ubicacion",
-    "name": "La Paz",
-    "city": "La Paz",
+    "label": "Ubicación",
+    "name": "",
+    "city": "",
     "short": "La Paz, Bolivia",
     "address": "36 Shchyretska St, Lviv, Ukraine",
     "pointer": {
@@ -148,37 +138,37 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/mdevconf"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/mDevConfBO"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/mDevConfBO?s=20"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.instagram.com/mdevconfbo"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCZM4yzVYpnlLXYDl3vELXrA"
       }
     ],
     "share": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sharer.php?u="
+        "url": "https://www.facebook.com/mDevConfBO"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/intent/tweet?text="
+        "url": "https://twitter.com/mDevConfBO?s=20"
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "mdevconf@gmail.com",
   "signInProviders": {
     "providersData": [
       {
@@ -210,5 +200,8 @@
       "itemsCount": 5
     }
   },
-  "showForkMeBlockForProjectIds": ["hoverboard-master", "hoverboard-dev"]
+  "showForkMeBlockForProjectIds": [
+    "hoverboard-master",
+    "hoverboard-dev"
+  ]
 }
